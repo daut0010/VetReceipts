@@ -3,5 +3,8 @@ package viewmodel;
 import java.sql.SQLOutput;
 
 public class viewmodel {
-    System.out.println("hahahah");
+    public static void main(String[] args) {
+        System.out.println("hahahah");
+    }
+
 }
